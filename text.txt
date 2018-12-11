@@ -2,4 +2,3 @@ add three country i visited:
 1.germany
 2.sweden
 3.prag
-poland 
